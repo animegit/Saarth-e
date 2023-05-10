@@ -1,16 +1,4 @@
-# flutter_task
+#Saarth-e
+##About
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Saarth-e is a user interface built using Flutter that helps you discover colleges based on your preferred courses. By utilizing a sorting algorithm, the app recommends colleges and schools that fit your criteria. It provides detailed information on your chosen college or school, including reviews, descriptions, ratings, locations, and available facilities. Additionally, the app allows you to easily book nearby hostel rooms both within and outside the campus.
